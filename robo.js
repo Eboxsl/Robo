@@ -1,8 +1,8 @@
 {
-  "team1": "iron",
-  "team2": "bronze",
-  "team3": "iron",
-  "team4": "iron",
-  "team5": "iron",
-  "team6": "gold"
+  "team1": "⚙️ Iron",
+  "team2": "⚙️ Iron",
+  "team3": "⚙️ Iron",
+  "team4": "⚙️ Iron",
+  "team5": "⚙️ Iron",
+  "team6": "⚙️ Iron"
 }

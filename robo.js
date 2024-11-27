@@ -1,5 +1,5 @@
 {
-  "team1": "⚙️ Iron 50〽️",
+  "team1": "🥉 Bronze 50〽️",
   "team2": "⚙️ Iron 40",
   "team3": "⚙️ Iron",
   "team4": "⚙️ Iron 10",

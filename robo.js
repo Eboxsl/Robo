@@ -1,5 +1,5 @@
 {
-  "team1": "🥉 Bronze 50〽️",
+  "team1": "🥉 Bronze 91〽️",
 //task 1
     //Disindu Senumitha
     //Aritha Savain
@@ -14,12 +14,13 @@
 //vindinu-8
 //Aritha Savain Abeysirinarayana-9
     
-  "team2": "⚙️ Iron 40",
+  "team2": 
+  "team1": "🥉 Bronze 64",
 //task1
 //P.D.Thamidu Manula
 //beta-Chenuka Sadew
 //beta-thisanga
-
+//ff
 
 
     //task2
@@ -31,7 +32,7 @@
 
 
     
-  "team3": "⚙️ Iron",
+  "team3": "⚙️ Iron 8",
 
     //task1
 
@@ -40,7 +41,7 @@
 
 
 
-  "team4": "⚙️ Iron 10",
+  "team4": "⚙️ Iron 18",
 
     //task1
 
@@ -50,7 +51,7 @@
 
 
 
-  "team5": "⚙️ Iron",
+  "team5": "⚙️ Iron 9",
 
     //task2 
     //Kenuka Sayul Vidanage-9

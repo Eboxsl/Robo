@@ -14,8 +14,7 @@
 //vindinu-8
 //Aritha Savain Abeysirinarayana-9
     
-  "team2": 
-  "team1": "🥉 Bronze 64",
+  "team2":"🥉 Bronze 64",
 //task1
 //P.D.Thamidu Manula
 //beta-Chenuka Sadew
